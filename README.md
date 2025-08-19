@@ -46,7 +46,7 @@ This project fulfills all FreeCodeCamp Data Visualization certification requirem
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ayokanmi-Adejola/us-gdp-bar-chart.git
+git clone https://github.com/Ayokanmi-Adejola/Bar-Chart
 cd us-gdp-bar-chart
 ```
 
