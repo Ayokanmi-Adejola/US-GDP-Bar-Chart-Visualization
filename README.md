@@ -1,7 +1,7 @@
 
 # US GDP Bar Chart Visualization
 
-An interactive and fully responsive web application visualizing United States Gross Domestic Product (GDP) data from 1947 to 2015. Built with React, TypeScript, D3.js, and Tailwind CSS, this project showcases best practices in modern frontend development and data visualization. Features include dynamic bar charts, real-time data fetching, accessibility enhancements, and seamless performance across all devices
+An interactive and fully responsive web application visualizing United States Gross Domestic Product (GDP) data from 1947 to 2015. Built with React, TypeScript, D3.js, and Tailwind CSS, this project showcases best practices in modern frontend development and data visualization. Features include dynamic bar charts, real-time data fetching, accessibility enhancements, and seamless performance across all device
 
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/3a4e91a1-c7e0-453b-8e69-a8a5f03104f3" />
 
